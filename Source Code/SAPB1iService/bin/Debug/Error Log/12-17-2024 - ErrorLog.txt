@@ -1,0 +1,12 @@
+                                                      SAP Business One Integration Error Log
+10:12:27.3064541          Connected to JRS_EOPT_TESTDB - Company Database.
+10:37:36.0660226          Connected to JRS_EOPT_TESTDB - Company Database.
+10:43:21.0737088          Connected to JRS_EOPT_TESTDB - Company Database.
+10:47:38.5960148          Connected to JRS_EOPT_TESTDB - Company Database.
+10:50:21.7278169          Connected to JRS_EOPT_TESTDB - Company Database.
+11:11:23.5748164          Connected to JRS_EOPT_TESTDB - Company Database.
+11:14:20.6593531          Connected to JRS_EOPT_TESTDB - Company Database.
+11:18:02.2637297          Connected to JRS_EOPT_TESTDB - Company Database.
+11:19:26.0864306          Connected to JRS_EOPT_TESTDB - Company Database.
+11:21:31.0521204          Connected to JRS_EOPT_TESTDB - Company Database.
+16:12:43.5199780          12/17/2024 4:12:43 PM         100000085 - Add-on has already logged on with the same account in ()(2019-B1SLQSVR)

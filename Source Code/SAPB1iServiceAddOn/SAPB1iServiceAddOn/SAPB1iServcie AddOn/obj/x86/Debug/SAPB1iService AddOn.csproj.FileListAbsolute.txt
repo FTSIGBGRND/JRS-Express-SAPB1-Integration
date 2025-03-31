@@ -1,0 +1,17 @@
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\FTSISAPB1iServiceAddOn.exe.config
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\FTSISAPB1iServiceAddOn.exe
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\FTSISAPB1iServiceAddOn.pdb
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\Addon.dll
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\Addon.pdb
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\Addon.dll.config
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\bin\Debug\Addon.exe.config
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\SAPB1iService AddOn.csproj.AssemblyReference.cache
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\SAPB1iService AddOn.csproj.ResolveComReference.cache
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\FTSISAPB1iServiceAddOn.Properties.Resources.resources
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\SAPB1iService AddOn.csproj.GenerateResource.cache
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\SAPB1iService AddOn.csproj.CoreCompileInputs.cache
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\SAPB1iSe.FD910D49.Up2Date
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\FTSISAPB1iServiceAddOn.exe
+C:\Fasttrack Files\BPITC-SAPB1-Integration\Source Code\BPITC - Integration\SAPB1iServiceAddOn\SAPB1iServiceAddOn\SAPB1iServcie AddOn\obj\x86\Debug\FTSISAPB1iServiceAddOn.pdb

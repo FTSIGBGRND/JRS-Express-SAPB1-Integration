@@ -1,0 +1,6 @@
+                                                      SAP Business One Integration Error Log
+10:20:51.0550852          Connected to JRS_EOPT_TESTDB - Company Database.
+10:21:23.5287758          Connected to JRS_EOPT_TESTDB - Company Database.
+11:35:20.7083592          Connected to JRS_EOPT_TESTDB - Company Database.
+11:37:09.9435288          Connected to JRS_EOPT_TESTDB - Company Database.
+11:41:09.2157750          Connected to JRS_EOPT_TESTDB - Company Database.

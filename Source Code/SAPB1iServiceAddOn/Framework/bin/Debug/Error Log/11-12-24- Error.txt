@@ -1,0 +1,2 @@
+12/11/2024 12:00:00 AM          SAP Business One AddOn Error Log
+09:41:10.5607727          Errmsg -Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.IApplication'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{D1F75D47-137C-4335-AC2A-3FE209831B6A}' failed due to the following error: The RPC server is unavailable. (Exception from HRESULT: 0x800706BA)..

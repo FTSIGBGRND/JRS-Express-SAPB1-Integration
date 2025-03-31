@@ -1,0 +1,10 @@
+                                                      SAP Business One Integration Error Log
+18:00:17.6006208          Connected to HHNI_TEST - Company Database.
+18:00:49.9354301          Connected to HHNI_TEST - Company Database.
+18:01:42.5067531          Connected to HHNI_TEST - Company Database.
+18:02:29.5438795          Connected to HHNI_TEST - Company Database.
+18:04:08.7173507          Connected to JRS_EOPT_TESTDB - Company Database.
+18:04:41.7802284          Connected to JRS_EOPT_TESTDB - Company Database.
+18:05:13.9745583          Connected to JRS_EOPT_TESTDB - Company Database.
+18:06:34.3491089          Connected to JRS_EOPT_TESTDB - Company Database.
+18:09:16.3470185          Connected to JRS_EOPT_TESTDB - Company Database.
